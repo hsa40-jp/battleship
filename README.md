@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://shiba-jp.github.io/battleship/](https://shiba-jp.github.io/battleship/)
+> Open this page at [https://hsa40-jp.github.io/battleship/](https://hsa40-jp.github.io/battleship/)
 
 ## Use as Extension
 
@@ -10,22 +10,21 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/shiba-jp/battleship** and import
+* search for **https://github.com/hsa40-jp/battleship** and import
 
-## Edit this project ![Build status badge](https://github.com/shiba-jp/battleship/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/hsa40-jp/battleship/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/shiba-jp/battleship** and click import
+* paste **https://github.com/hsa40-jp/battleship** and click import
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+Blocks are not used.
 
-![A rendered view of the blocks](https://github.com/shiba-jp/battleship/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/hsa40-jp/battleship/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
@@ -55,8 +54,7 @@ MakeCode でこのリポジトリを編集します。
 
 ## ブロックのプレビュー
 
-この画像はマスター内の最後のコミットからのブロックコードを示しています。
-このイメージは更新に数分かかる場合があります。
+ブロックは使用されていません。
 
 ![生成されたブロック](https://github.com/hsa40-jp/battleship/raw/master/.github/makecode/blocks.png)
 
