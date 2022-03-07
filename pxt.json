@@ -1,0 +1,32 @@
+{
+    "name": "Battleship",
+    "version": "1.0.5",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.0"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "images.ts",
+        "mainfunctions.ts",
+        "ShipContext.ts",
+        "utility.ts",
+        "FleetStatus.ts",
+        "EnemyAI.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.22",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only"
+}
